@@ -1,0 +1,26 @@
+Sapiens – A Brief History of Humankind (ประวัติย่อของมนุษยชาติ)
+===
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41+lolL22gL._SX314_BO1,204,203,200_.jpg)
+
+**บทความสรุปหนังสือ Sapiens – A Brief History of Humankind**
+
+- ตอนที่ 1 – [กำเนิด Homo Sapiens](docs/sapiens-1.md) 
+- ตอนที่ 2 – [สิ่งที่ทำให้เราครองโลก](docs/sapiens-2.md)
+- ตอนที่ 3 – [ยุคแห่งการล่าสัตว์เก็บพืชผล](docs/sapiens-3.md)
+- ตอนที่ 4 – [การหลอกลวงครั้งยิ่งใหญ่](docs/sapiens-4.md)
+- ตอนที่ 5 – [คุกที่มองไม่เห็น](docs/sapiens-5.md)
+- ตอนที่ 6 – [กำเนิดภาษาเขียน](docs/sapiens-6.md)
+- ตอนที่ 7 – [ความเหลื่อมล้ำ](docs/sapiens-7.md)
+- ตอนที่ 8 – [โลกที่ถูกหลอมรวม](docs/sapiens-8.md)
+- ตอนที่ 9 – [มนตราของเงินตรา](docs/sapiens-9.md)
+- ตอนที่ 10 – [จักรวรรดิ](docs/sapiens-10.md)
+- ตอนที่ 11 – [บทบาทของศาสนา](https://anontawong.com/2017/02/26/sapiens-11/)
+- ตอนที่ 12 – [ศาสนไร้พระเจ้า](https://anontawong.com/2017/03/05/sapiens-12/)
+- ตอนที่ 13 – [ยุคแห่งความไม่รู้](https://anontawong.com/2017/03/19/sapiens-13/)
+- ตอนที่ 14 – [500 ปีแห่งความก้าวหน้า  ](https://anontawong.com/2017/03/26/sapiens-14/)
+- ตอนที่ 15 – [เมื่อยุโรปครองโลก](https://anontawong.com/2017/04/02/sapiens-15/)
+- ตอนที่ 16 – [สวัสดีทุนนิยม](https://anontawong.com/2017/04/09/sapiens-16/)
+- ตอนที่ 17 – [จานอลูมิเนียมของนโปเลียน](https://anontawong.com/2017/04/17/sapiens-17/)
+- ตอนที่ 18 – [ครอบครัวล่มสลาย](https://anontawong.com/2017/04/23/sapiens-18/)
+- ตอนที่ 19 – [สุขสมบ่มิสม](https://anontawong.com/2017/04/30/sapiens-19/)
+- ตอนที่ 20 – [อวสาน Sapiens](https://anontawong.com/2017/05/08/sapiens-20/)
