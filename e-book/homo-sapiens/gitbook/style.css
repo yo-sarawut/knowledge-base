@@ -4134,6 +4134,6 @@ html {
 body {
     text-rendering: optimizeLegibility;
     font-smoothing: antialiased;
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue","Open Sans", "Clear Sans",  Helvetica, Arial, sans-serif;
     font-size: 16px
 }
