@@ -16,23 +16,23 @@
     
     
 
-<title>About W3 Simple • Knowledge Base</title>
+<title>Sixth • Knowledge Base</title>
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="About W3 Simple"/>
-<meta name="twitter:description" content="W3 Simple is a Hugo theme written by Jesse Lau . The main motivation for writing this theme was to provide a really minimal theme with W3 CSS included."/>
+<meta name="twitter:title" content="Sixth"/>
+<meta name="twitter:description" content="This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus."/>
 
-<meta property="og:title" content="About W3 Simple" />
-<meta property="og:description" content="W3 Simple is a Hugo theme written by Jesse Lau . The main motivation for writing this theme was to provide a really minimal theme with W3 CSS included." />
+<meta property="og:title" content="Sixth" />
+<meta property="og:description" content="This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://example.com/about/" />
-<meta property="article:published_time" content="2018-11-10T00:28:38+00:00" />
-<meta property="article:modified_time" content="2018-11-10T00:28:38+00:00" /><meta property="og:site_name" content="Knowledge Base" />
+<meta property="og:url" content="https://example.com/posts/sixth/" />
+<meta property="article:published_time" content="2018-10-07T11:39:25+02:00" />
+<meta property="article:modified_time" content="2018-10-07T11:39:25+02:00" /><meta property="og:site_name" content="Knowledge Base" />
 
 
 
-<link rel="canonical" href="https://example.com/about/" />
+<link rel="canonical" href="https://example.com/posts/sixth/" />
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -223,7 +223,11 @@ function displaymenu() {
         <div id="content" >
           
     <div class="w3-container w3-card-4">
-      <p>W3 Simple is a Hugo theme written by <a href="https://jesselau.com/">Jesse Lau</a> . The main motivation for writing this theme was to provide a really minimal theme with W3 CSS included.</p>
+      
+
+<h1 id="this-is-another-post">This is another post</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi.</p>
 
     </div>
         </div>
@@ -433,6 +437,13 @@ window.onscroll = function() {scrollFunction()};
 function scrollFunction() {
   <!-- TOC -->
     
+    
+    
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        document.getElementById("toc").style.display = "block";
+    } else {
+        document.getElementById("toc").style.display = "none";
+    }
     
     
     <!-- cookie bar -->
