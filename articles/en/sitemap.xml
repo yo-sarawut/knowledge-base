@@ -3,305 +3,305 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://yosarawut.github.io/knowledge-base/articles/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://yosarawut.github.io/knowledge-base/articles/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/clock/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/clock/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/series/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/series/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://yosarawut.github.io/knowledge-base/articles/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/time/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/time/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/time-component/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/time-component/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/lift/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/lift/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/pale-blue-dot/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/pale-blue-dot/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/origin-time/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/origin-time/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/about/</loc>
     <lastmod>2018-11-10T00:28:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/about/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://yosarawut.github.io/knowledge-base/articles/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/hugo/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/hugo/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/hugo/"
+                href="https://yosarawut.github.io/knowledge-base/articles/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/w3-simple-shortcodes-demo/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/w3-simple-shortcodes-demo/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/hugo-w3-simple-shortcodes-demo/"
+                href="https://yosarawut.github.io/knowledge-base/articles/hugo-w3-simple-shortcodes-demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/w3-simple-shortcodes-demo/"
+                href="https://yosarawut.github.io/knowledge-base/articles/w3-simple-shortcodes-demo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/website-programming/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/website-programming/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/website-programming/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/categories/website-programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/website-programming/"
+                href="https://yosarawut.github.io/knowledge-base/articles/categories/website-programming/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/drink/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/drink/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/drink/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/drink/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/drink/"
+                href="https://yosarawut.github.io/knowledge-base/articles/tags/drink/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/interesting/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/interesting/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/interesting/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/interesting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/interesting/"
+                href="https://yosarawut.github.io/knowledge-base/articles/tags/interesting/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/ninth/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/ninth/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/ninth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/ninth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/ninth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/ninth/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/seventh/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/seventh/</loc>
     <lastmod>2018-10-07T11:39:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/seventh/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/seventh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/seventh/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/seventh/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/sixth/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/sixth/</loc>
     <lastmod>2018-10-07T11:39:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/sixth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/sixth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/sixth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/sixth/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/fourth/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/fourth/</loc>
     <lastmod>2018-10-07T11:39:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/fourth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/fourth/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/fourth/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/third/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/third/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/third/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/third/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/third/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/second/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/second/</loc>
     <lastmod>2018-10-07T11:39:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/second/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/second/"
+                href="https://yosarawut.github.io/knowledge-base/articles/posts/second/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/allposts/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/allposts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/allposts/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/allposts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/allposts/"
+                href="https://yosarawut.github.io/knowledge-base/articles/allposts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://yosarawut.github.io/knowledge-base/articles/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/search/"
+                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/search/"
+                href="https://yosarawut.github.io/knowledge-base/articles/search/"
                 />
   </url>
   
