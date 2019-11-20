@@ -29,9 +29,15 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: sans-serif;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%
+    color: #333333;
+    font-size: 1.3em;
+    font-family: "TH Sarabun New",
+    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
 }
 
 body {
