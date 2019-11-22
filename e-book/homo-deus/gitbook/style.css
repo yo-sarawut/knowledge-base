@@ -29,7 +29,7 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: sans-serif;
+    font-family: "noto_sans_thai", sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -48,6 +48,7 @@ a:hover {
 }
 
 h1 {
+    font-family:"Kanit Light";
     font-size: 2em;
     margin: .67em 0
 }
