@@ -47,7 +47,7 @@ body {
     font-variant-ligatures: common-ligatures;
     line-height: 1.325;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
     margin: 0
 }
 
@@ -4138,7 +4138,14 @@ a {
 
 html,
 body {
-    height: 100%
+    color: #333333;
+    font-size: 1.4em;
+    font-family: "TH Sarabun New",    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
 }
 
 html {
