@@ -29,9 +29,21 @@ audio:not([controls]) {
 }
 
 html {
+<<<<<<< HEAD
     font-family: "noto_sans_thai", sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
+=======
+    color: #333333;
+    font-size: 1.3em;
+    font-family: "TH Sarabun New",
+    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+>>>>>>> a6120b4efa83ae446c65742b9b2755089da5f0ce
 }
 
 body {
