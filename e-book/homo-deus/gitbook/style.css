@@ -2433,7 +2433,7 @@ table {
 }
 
 .book .book-header {
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "TH Sarabun New",    sans-serif;
     overflow: visible;
     height: 50px;
     padding: 0 8px;
@@ -3226,8 +3226,8 @@ table {
 
 .book .book-body .page-wrapper .page-inner section.normal code,
 .book .book-body .page-wrapper .page-inner section.normal pre {
-    font-family: monospace, monospace;
-    font-size: 1em
+    font-family: "TH Sarabun New",    sans-serif;
+    font-size: 1.4em
 }
 
 .book .book-body .page-wrapper .page-inner section.normal table {
