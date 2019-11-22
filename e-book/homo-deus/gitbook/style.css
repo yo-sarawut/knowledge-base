@@ -2433,7 +2433,7 @@ table {
 }
 
 .book .book-header {
-    font-family: "TH Sarabun New",    sans-serif;
+    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     overflow: visible;
     height: 50px;
     padding: 0 8px;
