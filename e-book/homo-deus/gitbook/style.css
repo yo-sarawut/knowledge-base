@@ -2433,7 +2433,10 @@ table {
 }
 
 .book .book-header {
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Kanit Light","Open Sans", "Clear Sans", "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
     overflow: visible;
     height: 50px;
     padding: 0 8px;
@@ -2745,7 +2748,12 @@ table {
 }
 
 .book .book-summary {
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Kanit Light","Open Sans",
+    "Clear Sans",
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
     position: absolute;
     top: 0;
     left: -300px;
@@ -3226,8 +3234,8 @@ table {
 
 .book .book-body .page-wrapper .page-inner section.normal code,
 .book .book-body .page-wrapper .page-inner section.normal pre {
-    font-family: "TH Sarabun New",    sans-serif;
-    font-size: 1.4em
+    font-family: monospace, monospace;
+    font-size: 1em
 }
 
 .book .book-body .page-wrapper .page-inner section.normal table {
@@ -3332,7 +3340,7 @@ table {
 .book .book-body .page-wrapper .page-inner section.normal code,
 .book .book-body .page-wrapper .page-inner section.normal pre {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 12px
+    font-size: 13px
 }
 
 .book .book-body .page-wrapper .page-inner section.normal pre {
@@ -4074,7 +4082,7 @@ table {
         max-width: 50%;
         width: 50%;
         display: inline-block;
-        float: left
+        float: left;
     }
 
     .book .book-body .navigation.navigation-unique {
@@ -4149,7 +4157,7 @@ body {
 }
 
 html {
-    font-size: 62.5%
+    font-size: 100%
 }
 
 body {
