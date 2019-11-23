@@ -3,345 +3,395 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/"
+                href="https://example.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/"
+                href="https://example.io/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/fightingf-falcon/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/posts/top10_battleship/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/categories/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/categories/"
+                href="https://example.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/categories/"
+                href="https://example.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/posts/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/"
+                href="https://example.io/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/"
+                href="https://example.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/series/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/categories/series/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/</loc>
-    <lastmod>2019-11-20T16:10:05+07:00</lastmod>
+    <loc>https://example.io/tags/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/"
+                href="https://example.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/tags/"
+                href="https://example.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98/</loc>
+    <loc>https://example.io/tags/%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98/</loc>
+    <lastmod>2019-11-22T23:10:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/tags/%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%94/</loc>
+    <lastmod>2019-11-22T15:16:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/taegwondo_wiki/</loc>
+    <lastmod>2019-11-22T15:16:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/taekwondo-korea/</loc>
+    <lastmod>2019-11-22T15:15:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/tags/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%81/</loc>
+    <lastmod>2019-11-22T10:10:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/pegasus/</loc>
+    <lastmod>2019-11-22T10:10:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/greek-mythology-3/</loc>
+    <lastmod>2019-11-22T09:25:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/greek-mythology-2/</loc>
+    <lastmod>2019-11-22T09:20:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/greek-mythology-1/</loc>
+    <lastmod>2019-11-22T09:15:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/greek-mythology/</loc>
+    <lastmod>2019-11-22T09:10:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/posts/fightingf-falcon/</loc>
     <lastmod>2019-11-20T16:10:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%94/</loc>
+    <loc>https://example.io/posts/coch-choi-young-seok/</loc>
     <lastmod>2019-11-20T11:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/coch-choi-young-seok/</loc>
-    <lastmod>2019-11-20T11:15:05+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/mummies/</loc>
+    <loc>https://example.io/posts/mummies/</loc>
     <lastmod>2019-11-20T10:17:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C/</loc>
+    <loc>https://example.io/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C/</loc>
     <lastmod>2019-11-20T10:17:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/history/</loc>
+    <loc>https://example.io/posts/history/</loc>
     <lastmod>2019-11-20T10:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/john-c-stennis/</loc>
+    <loc>https://example.io/posts/john-c-stennis/</loc>
     <lastmod>2019-11-20T10:10:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%81/</loc>
-    <lastmod>2019-11-19T15:15:05+07:00</lastmod>
+    <loc>https://example.io/posts/greek-got/</loc>
+    <lastmod>2019-11-20T08:10:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/greek-mythology/</loc>
-    <lastmod>2019-11-19T15:15:05+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/time-component/</loc>
+    <loc>https://example.io/posts/time-component/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/</loc>
+    <loc>https://example.io/tags/%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/</loc>
     <lastmod>2019-11-15T15:15:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/clock/</loc>
+    <loc>https://example.io/tags/clock/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/pale-blue-dot/</loc>
+    <loc>https://example.io/posts/pale-blue-dot/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/space/</loc>
+    <loc>https://example.io/tags/space/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/time/</loc>
+    <loc>https://example.io/tags/time/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/origin-time/</loc>
+    <loc>https://example.io/posts/origin-time/</loc>
     <lastmod>2019-11-14T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/about/</loc>
+    <loc>https://example.io/posts/about/</loc>
+    <lastmod>2019-06-04T21:55:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/about/</loc>
     <lastmod>2018-11-10T00:28:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/about/"
+                href="https://example.io/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/about/"
+                href="https://example.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/hugo/</loc>
+    <loc>https://example.io/test/</loc>
+    <lastmod>2018-11-10T00:28:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.io/tags/hugo/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/hugo/"
+                href="https://example.io/zh-cn/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/tags/hugo/"
+                href="https://example.io/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/w3-simple-shortcodes-demo/</loc>
+    <loc>https://example.io/w3-simple-shortcodes-demo/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/hugo-w3-simple-shortcodes-demo/"
+                href="https://example.io/hugo-w3-simple-shortcodes-demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/w3-simple-shortcodes-demo/"
+                href="https://example.io/w3-simple-shortcodes-demo/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/categories/website-programming/</loc>
+    <loc>https://example.io/categories/website-programming/</loc>
     <lastmod>2018-11-09T07:26:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/categories/website-programming/"
+                href="https://example.io/zh-cn/categories/website-programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/categories/website-programming/"
+                href="https://example.io/categories/website-programming/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/drink/</loc>
+    <loc>https://example.io/tags/drink/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/drink/"
+                href="https://example.io/zh-cn/tags/drink/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/tags/drink/"
+                href="https://example.io/tags/drink/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/tags/interesting/</loc>
+    <loc>https://example.io/tags/interesting/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/tags/interesting/"
+                href="https://example.io/zh-cn/tags/interesting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/tags/interesting/"
+                href="https://example.io/tags/interesting/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/ninth/</loc>
+    <loc>https://example.io/posts/ninth/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/ninth/"
+                href="https://example.io/zh-cn/posts/ninth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/ninth/"
+                href="https://example.io/posts/ninth/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/seventh/</loc>
+    <loc>https://example.io/posts/seventh/</loc>
     <lastmod>2018-10-07T11:39:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/seventh/"
+                href="https://example.io/zh-cn/posts/seventh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/seventh/"
+                href="https://example.io/posts/seventh/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/sixth/</loc>
+    <loc>https://example.io/posts/sixth/</loc>
     <lastmod>2018-10-07T11:39:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/sixth/"
+                href="https://example.io/zh-cn/posts/sixth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/sixth/"
+                href="https://example.io/posts/sixth/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/fourth/</loc>
+    <loc>https://example.io/posts/fourth/</loc>
     <lastmod>2018-10-07T11:39:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/fourth/"
+                href="https://example.io/zh-cn/posts/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/fourth/"
+                href="https://example.io/posts/fourth/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/posts/third/</loc>
+    <loc>https://example.io/posts/third/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/posts/third/"
+                href="https://example.io/zh-cn/posts/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/posts/third/"
+                href="https://example.io/posts/third/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/allposts/</loc>
+    <loc>https://example.io/allposts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/allposts/"
+                href="https://example.io/zh-cn/allposts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/allposts/"
+                href="https://example.io/allposts/"
                 />
   </url>
   
   <url>
-    <loc>https://yosarawut.github.io/knowledge-base/articles/search/</loc>
+    <loc>https://example.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yosarawut.github.io/knowledge-base/articles/zh-cn/search/"
+                href="https://example.io/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yosarawut.github.io/knowledge-base/articles/search/"
+                href="https://example.io/search/"
                 />
   </url>
   
