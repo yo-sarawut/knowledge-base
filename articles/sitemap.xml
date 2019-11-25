@@ -11,7 +11,11 @@
 	<sitemap>
 	   	<loc>https://little-dragons.github.io/web/articles/en/sitemap.xml</loc>
 		
+<<<<<<< HEAD
 	   	<lastmod>2019-11-24T22:40:11+07:00</lastmod>
+=======
+	   	<lastmod>2019-11-22T23:10:05+07:00</lastmod>
+>>>>>>> 9d8b2698e2b8bb28a8b347049a27bc5893b863c1
 		
 	</sitemap>
 	

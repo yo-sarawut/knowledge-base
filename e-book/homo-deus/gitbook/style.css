@@ -30,9 +30,8 @@ audio:not([controls]) {
 
 html {
     color: #333333;
-    font-size: 1.3em;
-    font-family: "TH Sarabun New",
-    sans-serif;
+    font-size: 1.4em;
+    font-family: "TH Sarabun New",    sans-serif;
     font-weight: 400;
     font-variant-ligatures: common-ligatures;
     line-height: 1.325;
@@ -41,6 +40,14 @@ html {
 }
 
 body {
+    color: #333333;
+    font-size: 1.4em;
+    font-family: "TH Sarabun New",    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     margin: 0
 }
 
@@ -54,6 +61,7 @@ a:hover {
 }
 
 h1 {
+    font-family:"Kanit Light", Sans-serif;
     font-size: 2em;
     margin: .67em 0
 }
@@ -86,8 +94,8 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, serif;
-    font-size: 1em
+    font-family: "TH Sarabun New",    sans-serif;
+    font-size: 1.4em
 }
 
 pre {
@@ -2425,7 +2433,10 @@ table {
 }
 
 .book .book-header {
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Kanit Light","Open Sans", "Clear Sans", "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
     overflow: visible;
     height: 50px;
     padding: 0 8px;
@@ -2737,7 +2748,12 @@ table {
 }
 
 .book .book-summary {
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Kanit Light","Open Sans",
+    "Clear Sans",
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
     position: absolute;
     top: 0;
     left: -300px;
@@ -3324,7 +3340,7 @@ table {
 .book .book-body .page-wrapper .page-inner section.normal code,
 .book .book-body .page-wrapper .page-inner section.normal pre {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 12px
+    font-size: 13px
 }
 
 .book .book-body .page-wrapper .page-inner section.normal pre {
@@ -4066,7 +4082,7 @@ table {
         max-width: 50%;
         width: 50%;
         display: inline-block;
-        float: left
+        float: left;
     }
 
     .book .book-body .navigation.navigation-unique {
@@ -4130,16 +4146,27 @@ a {
 
 html,
 body {
-    height: 100%
+    color: #333333;
+    font-size: 1.4em;
+    font-family: "TH Sarabun New",    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
 }
 
 html {
-    font-size: 62.5%
+    font-size: 100%
 }
 
 body {
-    text-rendering: optimizeLegibility;
-    font-smoothing: antialiased;
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 15px
+    color: #333333;
+    font-size: 1.4em;
+    font-family: "TH Sarabun New",    sans-serif;
+    font-weight: 400;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.325;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
 }

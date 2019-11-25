@@ -6,7 +6,11 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 24 Nov 2019 22:40:11 +0700</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 22 Nov 2019 23:10:05 +0700</lastBuildDate>
+>>>>>>> 9d8b2698e2b8bb28a8b347049a27bc5893b863c1
     
 	<atom:link href="https://little-dragons.github.io/web/articles/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -58,8 +62,13 @@
     
     <item>
       <title>Series</title>
+<<<<<<< HEAD
       <link>https://little-dragons.github.io/web/articles/categories/series/</link>
       <pubDate>Sat, 23 Nov 2019 11:40:11 +0200</pubDate>
+=======
+      <link>https://yosarawut.github.io/knowledge-base/articles/categories/series/</link>
+      <pubDate>Fri, 22 Nov 2019 23:10:05 +0700</pubDate>
+>>>>>>> 9d8b2698e2b8bb28a8b347049a27bc5893b863c1
       
       <guid>https://little-dragons.github.io/web/articles/categories/series/</guid>
       <description></description>
