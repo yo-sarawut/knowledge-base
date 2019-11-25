@@ -150,7 +150,7 @@ samp {
     font-family: "Noto Serif Thai",
     monospace,
     monospace;
-    font-size: 1em
+    font-size: .8em
 }
 
 hr {
@@ -255,7 +255,7 @@ textarea {
 html,
 body {
     font-family: "Noto Serif Thai",    sans-serif;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 1.5
 }
 
@@ -265,17 +265,21 @@ html {
 
 h1 {
    
-    font-size: 36px
+    font-size: 36px;
+    color:#2A4B7C;
 }
 
 h2 {
     
-    font-size: 30px
+    font-size: 30px;
+    color:#2A4B7C;
+    
 }
 
 h3 {
     
-    font-size: 24px
+    font-size: 24px;
+    color:#2A4B7C;
 }
 
 h4 {
@@ -302,6 +306,7 @@ h5,
 h6 {
     font-family: "Kanit Light", Arial, sans-serif;
     font-weight: 600;
+    color:#2A4B7C;
     margin: 10px 0
 }
 
